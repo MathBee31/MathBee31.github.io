@@ -1,0 +1,34 @@
+# main links
+main:
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Introduce"
+    url: /introduce/
+  # - title: "Categories"
+  #   url: /categories/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+sidebar-category:
+  - title: "Github Blog"
+    children:
+      - title: "블로그 만들기"
+        url: "/making_blog"
+        category: "Making_Blog"
+
+      - title: "블로그 커스텀"
+        url: "/custom_blog"
+        category: "Custom_Blog"
+
+  - title: "Statistics"
+    children:
+      - title: "기초 통계"
+        url: "/basic_statistics"
+        category: "Statistics"
+  - title: "Programming"
+    children: 
+      - title: "SQL"
+        url: "/SQL"
+        category: "SQL"
