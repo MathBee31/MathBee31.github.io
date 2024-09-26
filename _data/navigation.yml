@@ -12,7 +12,7 @@ main:
     url: /search/
 
 sidebar-category:
-  - title: "Github Blog"
+  - title: "수학"
     children:
       - title: "블로그 만들기"
         url: "/making_blog"
