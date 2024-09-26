@@ -1,7 +1,7 @@
 ---
-title: "SQL A to Z"
+title: "확률과 통계"
 layout: archive
-permalink: /SQL
+permalink: /probability_statistics
 author_profile: true
 sidebar:
     nav: "sidebar-category"
