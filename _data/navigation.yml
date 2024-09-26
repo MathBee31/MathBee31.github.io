@@ -16,7 +16,7 @@ sidebar-category:
     children:
       - title: "공통 수학"
         url: "/common_math"
-        category: "Common_Math"
+        category: "공통수학"
       - title: "대수"
         url: "/algebra"
         category: "Algebra"
