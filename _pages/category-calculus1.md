@@ -1,7 +1,7 @@
 ---
-title: "회귀분석 정복하기"
+title: "미적분Ⅰ"
 layout: archive
-permalink: /regression
+permalink: /calculus1
 author_profile: true
 sidebar:
     nav: "sidebar-category"
