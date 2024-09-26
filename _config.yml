@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR" # 기본 언어 설정
-title                    : "Mathematics and More" # 제목에 표시 되는 부분
+title                    : "Mathematics Study Blog" # 제목에 표시 되는 부분
 title_separator          : "-"
 subtitle                 : "Records of various studies, including mathematics." # site tagline that appears below site title in masthead 제목 아래에 표시되는 부분
-name                     : "흑돼지"
+name                     : "MathBee"
 description              : ""
-url                      : "https://blackpig31.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://mathbee31.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "blackpig31/blackpig31.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "mathbee31/mathbee31.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/mathman.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Mathematics and More" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Mathematics Study Bolog" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "흑돼지"
+  name             : "Mathbee"
   avatar           : "/assets/images/mathman.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "..."
   location         : "Republic of Korea"
 #  email            :
-#  links:
-#    - label: "Email"
-#      icon: "fas fa-fw fa-envelope-square"
-#      url: mailto:xxx@gmail.com
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:mathbee31@gmail.com
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
 #      # url: "https://your-website.com"
