@@ -1,7 +1,7 @@
 ---
-title: "통계학 쉽고 빠르게 정복해보기"
+title: "미적분Ⅱ"
 layout: archive
-permalink: /basic_statistics
+permalink: /calculus2
 author_profile: true
 sidebar:
     nav: "sidebar-category"
