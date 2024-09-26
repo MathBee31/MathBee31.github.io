@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko-KR" # 기본 언어 설정
 title                    : "Mathematics and More" # 제목에 표시 되는 부분
 title_separator          : "-"
-subtitle                 : "Records of various studies, including **mathematics**" # site tagline that appears below site title in masthead 제목 아래에 표시되는 부분
+subtitle                 : "Records of various studies, including mathematics." # site tagline that appears below site title in masthead 제목 아래에 표시되는 부분
 name                     : "흑돼지"
 description              : ""
 url                      : "https://blackpig31.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
