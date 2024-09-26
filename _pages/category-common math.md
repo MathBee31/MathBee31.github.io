@@ -1,7 +1,7 @@
 ---
-title: "깃허브 블로그 커스텀 정복하기"
+title: "공통 수학"
 layout: archive
-permalink: /custom_blog
+permalink: /common_math
 author_profile: true
 sidebar:
     nav: "sidebar-category"
