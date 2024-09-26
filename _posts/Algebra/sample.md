@@ -1,1 +1,38 @@
+---
+title: "포스팅 예시: 대수"
+excerpt: "개념을 학습하고, 활용하여 문제를 해결 할 수 있다."
+
+categories:
+    - ai_math
+tags:
+    - [ai, math, 인공지능, 수학]
+
+toc: true
+toc_sticky: true
+
+date: 2024-09-26
+last_modified_at: 2024-09-27
+comments: true
+---
+
+<br>
+
+<div align=center>
+안녕하세요.<br> 
+반갑습니다.
+</div>
+
+<BR><BR>
+
+# 주제1
+* 예문1
+* 예문2 강조 **강조된 문구**입니다.
+
+## 주제2
+
+
+### 주제3
+1. 궁시렁1
+2. 궁시렁2
+3. 궁시렁3
 
