@@ -15,8 +15,8 @@ sidebar-category:
   - title: "Mathematics"
     children:
       - title: "공통 수학"
-        url: "/common_math"
-        category: "공통수학"
+        url: /common_math/
+        category: "Common_Math"
       - title: "대수"
         url: "/algebra"
         category: "Algebra"
@@ -45,5 +45,5 @@ sidebar-category:
   - title: "Samples"
     children:
       - title: "포스트 예시"
-        url: "/post_sample"
+        url: "/sample"
         category: "sample"
